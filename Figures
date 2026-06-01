@@ -1,1 +1,22 @@
 
+**Fig 1 — Neural Network Architecture: With vs Without DP**
+
+![Model Architecture](figures/fig1_model_architecture.png)
+
+---
+
+**Fig 2 — Privacy-Utility Trade-off: CDP vs LDP**
+
+![Privacy Utility Tradeoff](figures/fig2_privacy_utility_tradeoff.png)
+
+---
+
+**Fig 3 — Throughput Comparison Across Mechanisms**
+
+![Throughput Comparison](figures/fig3_throughput_comparison.png)
+
+---
+
+**Fig 4 — LDP Mechanism Comparison: RAPPOR vs Hadamard**
+
+![Mechanism Comparison](figures/fig4_ldp_mechanism_comparison.png)
