@@ -83,7 +83,7 @@ ldp-research/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/ldp-research.git
+git clone https://github.com/sabairhussain/ldp-research.git
 cd ldp-research
 ```
 
@@ -169,7 +169,7 @@ If you use this work, please cite:
   year      = {2025},
   school    = {Wright State University},
   note      = {Masters in Cybersecurity Final Report},
-  url       = {https://github.com/YOUR_USERNAME/ldp-research}
+  url       = {https://github.com/sabairhussain/ldp-research}
 }
 ```
 
